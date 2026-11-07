@@ -1,0 +1,11 @@
+torch
+torchvision
+timm>=1.0
+wilds
+scikit-learn
+pandas
+scipy
+matplotlib
+gradio
+tqdm
+pillow
