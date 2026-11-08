@@ -1,12 +1,1 @@
-# Install PyTorch (CPU) first:  pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
-timm>=1.0
-scikit-learn
-pandas
-scipy
-matplotlib
-gradio
-tqdm
-pillow
-huggingface_hub
-# only needed to rebuild the dataset cache (build_cache.py), not for the demo / analysis:
-# wilds
+
